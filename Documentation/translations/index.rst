@@ -13,7 +13,6 @@ Translations
    ko_KR/index
    ja_JP/index
    sp_SP/index
-   fa/index
 
 
 .. _translations_disclaimer:
